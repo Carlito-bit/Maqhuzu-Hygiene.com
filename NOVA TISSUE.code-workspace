@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../Websites/nova-tissue"
+    }
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "css.validate": true,
+    "files.associations": {
+      "*.html": "html",
+      "*.css": "css"
+    }
+  }
+}
